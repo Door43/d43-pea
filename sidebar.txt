@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pea:home|Door43 (pea)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pea|d43-pea repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pea/archive/master.zip|d43-pea.zip]]
+
+**Recent Changes**
+{{changes>ns = pea}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pea|Ethnologue data]]
+
